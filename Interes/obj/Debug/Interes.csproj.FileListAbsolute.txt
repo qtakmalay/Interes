@@ -1,0 +1,17 @@
+C:\Users\azatv\source\repos\Interes\Interes\bin\Debug\Interes.exe.config
+C:\Users\azatv\source\repos\Interes\Interes\bin\Debug\Interes.exe
+C:\Users\azatv\source\repos\Interes\Interes\bin\Debug\Interes.pdb
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\Interes.csprojAssemblyReference.cache
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\CredentialsConfirm.g.cs
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\MainWindow.g.cs
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\App.g.cs
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\Interes_MarkupCompile.cache
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\Interes_MarkupCompile.lref
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\CredentialsConfirm.baml
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\MainWindow.baml
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\Interes.g.resources
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\Interes.Properties.Resources.resources
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\Interes.csproj.GenerateResource.cache
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\Interes.csproj.CoreCompileInputs.cache
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\Interes.exe
+C:\Users\azatv\source\repos\Interes\Interes\obj\Debug\Interes.pdb
